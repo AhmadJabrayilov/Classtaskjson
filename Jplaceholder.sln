@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jplaceholder", "Jplaceholder\Jplaceholder.csproj", "{814376A8-E574-4595-8D58-2F73C0F6B34F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814376A8-E574-4595-8D58-2F73C0F6B34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814376A8-E574-4595-8D58-2F73C0F6B34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814376A8-E574-4595-8D58-2F73C0F6B34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814376A8-E574-4595-8D58-2F73C0F6B34F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BF5493-E952-4B19-B3C6-69BC746124D6}
+	EndGlobalSection
+EndGlobal

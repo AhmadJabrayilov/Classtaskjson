@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEZLNyKZuB8iclhCEJqpm0Mh6nJkZN4CvIjfcmFwuKuUk4ZTHImBHCPiXZvfN6PIPCHSBfr/XR6H41ZCsnYuJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu25tyfpp\\Desktop\\Jplaceholder\\Jplaceholder\\Jplaceholder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu25tyfpp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

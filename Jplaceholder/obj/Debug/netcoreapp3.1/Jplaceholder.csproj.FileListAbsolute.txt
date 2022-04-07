@@ -1,0 +1,16 @@
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\bin\Debug\netcoreapp3.1\Jplaceholder.exe
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\bin\Debug\netcoreapp3.1\Jplaceholder.deps.json
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\bin\Debug\netcoreapp3.1\Jplaceholder.runtimeconfig.json
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\bin\Debug\netcoreapp3.1\Jplaceholder.runtimeconfig.dev.json
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\bin\Debug\netcoreapp3.1\Jplaceholder.dll
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\bin\Debug\netcoreapp3.1\Jplaceholder.pdb
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.csproj.AssemblyReference.cache
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.AssemblyInfoInputs.cache
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.AssemblyInfo.cs
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.csproj.CoreCompileInputs.cache
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.dll
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.pdb
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.genruntimeconfig.cache
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu25tyfpp\Desktop\Jplaceholder\Jplaceholder\obj\Debug\netcoreapp3.1\Jplaceholder.csproj.CopyComplete
